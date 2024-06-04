@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="key_btnStart">POČNI</string>
+    <string name="key_tvWelcome">Dobrodošao u Reflex Tapper!</string>
+    <string name="key_tvBack">NATRAG</string>
+    <string name="contentDesc_confetti">konfeti</string>
+    <string name="key_congrats">Čestitamo, imaš novi najveći rezultat!</string>
+    <string name="key_tvHiScore">Najveći rezultat:</string>
+    <string name="key_cricleNumExceeded">Broj krugova prekoračen!</string>
+    <string name="key_timerEnded">Timer istekao!</string>
+    <string name="key_tvBaseScore">Osnovni:</string>
+    <string name="key_tvTimeScore">Vrijeme:</string>
+    <string name="key_tvMissedScore">Promašeno:</string>
+    <string name="key_tvTotalScore">Ukupno:</string>
+</resources>

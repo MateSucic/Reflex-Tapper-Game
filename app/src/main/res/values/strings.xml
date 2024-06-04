@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Reflex Tapper</string>
+    <string name="key_btnStart">START</string>
+    <string name="key_tvWelcome">Welcome to Reflex Tapper!</string>
+    <string name="key_tvBack">BACK</string>
+    <string name="contentDesc_confetti">confetti</string>
+    <string name="key_congrats">Congratulations you have a new high score!</string>
+    <string name="key_tvHiScore">High score:</string>
+    <string name="key_cricleNumExceeded">Circle number exceeded!</string>
+    <string name="key_timerEnded">Timer ended!</string>
+    <string name="key_tvBaseScore">Base:</string>
+    <string name="key_tvTimeScore">Time:</string>
+    <string name="key_tvMissedScore">Missed:</string>
+    <string name="key_tvTotalScore">Total:</string>
+</resources>
